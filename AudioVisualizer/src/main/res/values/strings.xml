@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Audio Visualizer</string>
+    <string name="device_access_mic">Start Recording</string>
+    <string name="device_access_mic_muted">Stop Recording</string>
+    <string name="action_settings">Switch Visualization</string>
+
+</resources>
