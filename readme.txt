@@ -10,6 +10,10 @@ Usage:
 1. Click on the "microphone" icon to start recording of audio.
 2. Click on the "settings" icon to switch between time analysis and frequency analysis.
 
+Versioning:
+
+- https://github.com/nghianja/AudioVisualizer
+
 Reference Guide:
 
 - Pro Android Media by Shawn Van Every
