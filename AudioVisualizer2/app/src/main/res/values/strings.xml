@@ -4,4 +4,52 @@
     <string name="device_access_mic_muted">Stop Recording</string>
     <string name="action_settings">Switch Visualization</string>
     <string name="privacy_policy">Privacy Policy</string>
+    <string name="policy_content">
+        <![CDATA[
+        <p>
+            This policy governs the manner in which Projapps collects, uses, maintains and
+            discloses information collected from users (each, a "User") of the Audio Visualizer
+            app ("App").
+        </p>
+        <u>Personal identification information</u>
+        <p>
+            We do not collect personal identification information from Users of our App.
+        </p>
+        <u>Non-personal identification information</u>
+        <p>
+            We may collect non-personal identification information about Users whenever they
+            interact with our App. Non-personal identification information may include the pattern
+            of usage, the type of device and technical information about Users means of access to
+            our App, such as the operating system and the service providers utilized and other
+            similar information.
+        </p>
+        <u>How we use collected information</u>
+        <p>
+            Projapps may collect and use Users personal information for the following purposes:<br>
+            - To improve our App<br>
+            - To personalize user experience
+        </p>
+        <u>How we protect your information</u>
+        <p>
+            We adopt appropriate data collection, storage and processing practices and security
+            measures to protect against unauthorized access, alteration, disclosure or destruction
+            of your transaction information and data stored on our App.
+        </p>
+        <u>Sharing your personal information</u>
+        <p>
+            We do not sell, trade, or rent Users personal identification information to others.
+        </p>
+        <u>Changes to this privacy policy</u>
+        <p>
+            Projapps has the discretion to update this privacy policy at any time. When we do, we
+            will inform via an update of our App.
+        </p>
+        <u>Your acceptance of these terms</u>
+        <p>
+            By using this App, you signify your acceptance of this policy. If you do not agree to
+            this policy, please do not use our App. Your continued use of the App following the
+            posting of changes to this policy will be deemed your acceptance of those changes.
+        </p>
+        ]]>
+    </string>
 </resources>

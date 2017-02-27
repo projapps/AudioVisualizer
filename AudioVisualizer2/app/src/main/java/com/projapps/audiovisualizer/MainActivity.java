@@ -1,5 +1,6 @@
 package com.projapps.audiovisualizer;
 
+import android.content.Intent;
 import android.media.AudioFormat;
 import android.media.AudioRecord;
 import android.media.MediaRecorder;
@@ -76,6 +77,8 @@ public class MainActivity extends AppCompatActivity {
                 initGraphView();
                 return true;
             case R.id.privacy_policy:
+                Intent intent = new Intent(this, PolicyActivity.class);
+                startActivity(intent);
                 return true;
             default:
                 return super.onOptionsItemSelected(item);
