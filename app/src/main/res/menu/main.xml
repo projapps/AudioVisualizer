@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/device_access_mic"
+        android:icon="@drawable/device_access_mic"
+        android:title="@string/device_access_mic"
+        app:showAsAction="ifRoom"
+        android:enabled="false"
+        android:visible="false" />
+    <item android:id="@+id/device_access_mic_muted"
+        android:icon="@drawable/device_access_mic_muted"
+        android:title="@string/device_access_mic_muted"
+        app:showAsAction="ifRoom"
+        android:enabled="false"
+        android:visible="false" />
+    <item android:id="@+id/action_settings"
+        android:icon="@drawable/action_settings"
+        android:title="@string/action_settings"
+        app:showAsAction="ifRoom" />
+    <item android:id="@+id/privacy_policy"
+        android:icon="@drawable/privacy_policy"
+        android:title="@string/privacy_policy"
+        app:showAsAction="ifRoom" />
+</menu>
